@@ -1,6 +1,6 @@
-# Cloud Functions: 3 Ways: Challenge Lab || [ARC104](https://www.cloudskillsboost.google/focuses/61974?parent=catalog) ||
+# Cloud Functions: 3 Ways: Challenge Lab || [ARC104]((https://www.cloudskillsboost.google/games/5572/labs/35864)) ||
 
-## Solution [here](https://youtu.be/fPVslkWDTGg)
+## Solution 
 
 ### Run the following Commands in CloudShell
 
@@ -23,6 +23,6 @@ sudo chmod +x arc104.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
+#### Don't Forget to Join the [Telegram Channel](https://t.me/onkarsakachannel) 
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [OSVINU] ((https://www.youtube.com/@onkarsaka))
